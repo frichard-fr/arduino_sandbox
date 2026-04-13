@@ -1,2 +1,2 @@
 # arduino_sandbox
-Dépôt pour les test en cours sur plateforme Arduino
+Dépôt pour les tests en cours sur plateforme Arduino
